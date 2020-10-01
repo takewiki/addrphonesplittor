@@ -1,3 +1,4 @@
+# upgrade into version v1.2
 templateData <-data.frame(barcode=paste('SQ2018123-010-0',1:100,sep = ""));
 
 #' 获取字符赂量中每个元素的长度，而不是向量的长度
